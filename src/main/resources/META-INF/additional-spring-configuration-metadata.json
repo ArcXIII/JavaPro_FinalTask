@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "app.default-limit",
+      "type": "java.math.BigDecimal",
+      "description": "Default limit for user."
+    },
+    {
+      "name": "app.keep-transaction-history",
+      "type": "java.lang.Integer",
+      "description": "Keep transaction history for N days."
+    }
+  ]
+}
